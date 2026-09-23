@@ -107,7 +107,7 @@ function App() {
               </a>
 
               <a
-  href={`${import.meta.env.BASE_URL}resume.pdf`}
+  href="/Portfolio/resume.pdf"
   target="_blank"
   rel="noopener noreferrer"
   className="btn secondary"
